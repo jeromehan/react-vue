@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg" alt="Build Status"></a>
@@ -333,5 +333,3 @@ Thank you to all the people who already contributed to Vue!
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2013-present, Yuxi (Evan) You
